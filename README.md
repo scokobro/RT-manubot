@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/scokobro/RT-manubot/tree/gh-pages) branch hosts the contents of this directory at <https://scokobro.github.io/RT-manubot/>.
-The permalink for this webpage version is <https://scokobro.github.io/RT-manubot/v/bb6ef9a4f64e8bcab7d8f9de50eb0b5b3bcc143e/>.
+The permalink for this webpage version is <https://scokobro.github.io/RT-manubot/v/1aba016d9645ab3b914abae923e8aea62c76901a/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://scokobro.github.io/RT-manubot/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`bb6ef9a4f64e8bcab7d8f9de50eb0b5b3bcc143e`](https://github.com/scokobro/RT-manubot/commit/bb6ef9a4f64e8bcab7d8f9de50eb0b5b3bcc143e).
+[`1aba016d9645ab3b914abae923e8aea62c76901a`](https://github.com/scokobro/RT-manubot/commit/1aba016d9645ab3b914abae923e8aea62c76901a).
