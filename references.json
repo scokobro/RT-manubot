@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "ISBN": "0520059433 (alk. paper)",
+    "annote": "The state and the mass media in Japan, 1918-1945",
+    "author": [
+      {
+        "family": "Kasza",
+        "given": "Gregory James"
+      }
+    ],
+    "id": "g8M5rrOK",
+    "issued": {
+      "date-parts": [
+        [
+          1988
+        ]
+      ]
+    },
+    "publisher": "University of California Press",
+    "publisher-place": "Berkeley CA",
+    "title": "The state and the mass media in Japan, 1918-1945",
+    "type": "book",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: Kasza:1988"
+  }
+]
