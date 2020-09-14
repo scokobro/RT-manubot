@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://scokobro.github.io/RT-manubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://scokobro.github.io/RT-manubot/v/3c624c5d7e6f83e2c0a6f39dafd2e3e0e0f2948a/" />
+  <link rel="alternate" type="text/html" href="https://scokobro.github.io/RT-manubot/v/b20d678ba5bca47bc1bd3cf453bc9a9863714262/" />
 
-  <meta name="manubot_html_url_versioned" content="https://scokobro.github.io/RT-manubot/v/3c624c5d7e6f83e2c0a6f39dafd2e3e0e0f2948a/" />
+  <meta name="manubot_html_url_versioned" content="https://scokobro.github.io/RT-manubot/v/b20d678ba5bca47bc1bd3cf453bc9a9863714262/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://scokobro.github.io/RT-manubot/v/3c624c5d7e6f83e2c0a6f39dafd2e3e0e0f2948a/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://scokobro.github.io/RT-manubot/v/b20d678ba5bca47bc1bd3cf453bc9a9863714262/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: Radio Towers - National
 
 <small><em>
 This manuscript
-([permalink](https://scokobro.github.io/RT-manubot/v/3c624c5d7e6f83e2c0a6f39dafd2e3e0e0f2948a/))
+([permalink](https://scokobro.github.io/RT-manubot/v/b20d678ba5bca47bc1bd3cf453bc9a9863714262/))
 was automatically generated
-from [scokobro/RT-manubot@3c624c5](https://github.com/scokobro/RT-manubot/tree/3c624c5d7e6f83e2c0a6f39dafd2e3e0e0f2948a)
+from [scokobro/RT-manubot@b20d678](https://github.com/scokobro/RT-manubot/tree/b20d678ba5bca47bc1bd3cf453bc9a9863714262)
 on September 14, 2020.
 </em></small>
 
