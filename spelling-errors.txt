@@ -1,7 +1,7 @@
 ABCD
 airforce
 amongst
-Asahi
+asahi
 Asakusa
 Asakusa’s
 BCE
@@ -19,7 +19,7 @@ Cinématographe
 communitas
 corpore
 daikō
-deco
+Deco
 Denki
 Deutsches
 eg
