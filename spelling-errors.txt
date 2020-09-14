@@ -4,6 +4,7 @@ aliquip
 amet
 anim
 aute
+Browes
 cillum
 commodo
 consectetur
@@ -23,8 +24,7 @@ fugiat
 incididunt
 ipsum
 irure
-janeroe
-johndoe
+Koga
 labore
 laboris
 laborum
@@ -42,6 +42,8 @@ proident
 qui
 quis
 reprehenderit
+Ritsumeikan
+scokobro
 sed
 sint
 sunt

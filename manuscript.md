@@ -1,7 +1,6 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
+- Scott Koga-Browes
 bibliography:
 - content/manual-references.json
 date-meta: '2020-09-14'
@@ -15,13 +14,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="Radio Towers - National" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="Radio Towers - National" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="Radio Towers - National" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="Radio Towers - National" />
 
   <meta name="dc.date" content="2020-09-14" />
 
@@ -39,21 +38,13 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Scott Koga-Browes" />
 
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-
-  <meta name="twitter:creator" content="@johndoe" />
-
-  <meta name="citation_author" content="Jane Roe" />
-
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author_institution" content="College of IR, Ritsumeikan University" />
 
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+
+  <meta name="twitter:creator" content="@scokobro" />
 
   <link rel="canonical" href="https://scokobro.github.io/RT-manubot/" />
 
@@ -67,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://scokobro.github.io/RT-manubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://scokobro.github.io/RT-manubot/v/140e474269882970b27fe75c8f5d8245537fb810/" />
+  <link rel="alternate" type="text/html" href="https://scokobro.github.io/RT-manubot/v/49bfa7eab00e3f3ae0280fc12290b21d961dad2c/" />
 
-  <meta name="manubot_html_url_versioned" content="https://scokobro.github.io/RT-manubot/v/140e474269882970b27fe75c8f5d8245537fb810/" />
+  <meta name="manubot_html_url_versioned" content="https://scokobro.github.io/RT-manubot/v/49bfa7eab00e3f3ae0280fc12290b21d961dad2c/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://scokobro.github.io/RT-manubot/v/140e474269882970b27fe75c8f5d8245537fb810/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://scokobro.github.io/RT-manubot/v/49bfa7eab00e3f3ae0280fc12290b21d961dad2c/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -93,7 +84,7 @@ manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: Radio Towers - National
 ...
 
 
@@ -103,9 +94,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://scokobro.github.io/RT-manubot/v/140e474269882970b27fe75c8f5d8245537fb810/))
+([permalink](https://scokobro.github.io/RT-manubot/v/49bfa7eab00e3f3ae0280fc12290b21d961dad2c/))
 was automatically generated
-from [scokobro/RT-manubot@140e474](https://github.com/scokobro/RT-manubot/tree/140e474269882970b27fe75c8f5d8245537fb810)
+from [scokobro/RT-manubot@49bfa7e](https://github.com/scokobro/RT-manubot/tree/49bfa7eab00e3f3ae0280fc12290b21d961dad2c)
 on September 14, 2020.
 </em></small>
 
@@ -113,25 +104,16 @@ on September 14, 2020.
 
 
 
-+ **John Doe**<br>
++ **Scott Koga-Browes**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [scokobro](https://github.com/scokobro)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [scokobro](https://twitter.com/scokobro)<br>
   <small>
-     Department of Something, University of Whatever
+     College of IR, Ritsumeikan University
      · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
   </small>
 
 
