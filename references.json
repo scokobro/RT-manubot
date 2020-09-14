@@ -1,5 +1,31 @@
 [
   {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "Joseph L"
+      },
+      {
+        "family": "Richie",
+        "given": "Donald"
+      }
+    ],
+    "id": "16rXryAuj",
+    "issued": {
+      "date-parts": [
+        [
+          1982
+        ]
+      ]
+    },
+    "publisher": "Princeton University Press",
+    "publisher-place": "???",
+    "title": "The japanese film: Art and industry",
+    "title-short": "The japanese film",
+    "type": "book",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: Anderson:1982"
+  },
+  {
     "ISBN": "0520059433 (alk. paper)",
     "annote": "The state and the mass media in Japan, 1918-1945",
     "author": [
@@ -21,5 +47,490 @@
     "title": "The state and the mass media in Japan, 1918-1945",
     "type": "book",
     "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: Kasza:1988"
+  },
+  {
+    "DOI": "10.1080/09523369208713777",
+    "URL": "https://doi.org/10.1080/09523369208713777",
+    "author": [
+      {
+        "family": "Abe",
+        "given": "Ikuo"
+      },
+      {
+        "family": "Kiyohara",
+        "given": "Yasuharu"
+      },
+      {
+        "family": "Nakajima",
+        "given": "Ken"
+      }
+    ],
+    "container-title": "The International Journal of the History of Sport",
+    "id": "16YYBgPfs",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "page": "1-28",
+    "publisher": "Routledge",
+    "title": "Fascism, sport and society in japan",
+    "type": "article-journal",
+    "volume": "9",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: abe92"
+  },
+  {
+    "author": [
+      {
+        "family": "Akiyama",
+        "given": "Hisashi"
+      }
+    ],
+    "id": "pSkjWXtA",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "publisher": "Junpōsha",
+    "publisher-place": "Tokyo",
+    "title": "Kimi wa gyokuon hōsō wo kiita ka? Rajio to sensō \\[did you hear the empereor’s speech? Radio and war\\]",
+    "type": "book",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: akiyam18"
+  },
+  {
+    "author": [
+      {
+        "literal": "Asahi Shimbun"
+      }
+    ],
+    "container-title": "Sumida Koen ni rajio-tō",
+    "id": "GAlLnzEw",
+    "issued": {
+      "date-parts": [
+        [
+          1932
+        ]
+      ]
+    },
+    "page": "11",
+    "title": "Sumida koen ni rajio-tō",
+    "type": "article-journal",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: asahi32-09-20"
+  },
+  {
+    "annote": "By",
+    "author": [
+      {
+        "family": "High",
+        "given": "Peter B."
+      }
+    ],
+    "id": "fkz8rmFw",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "publisher": "University of Wisconsin Press",
+    "title": "The imperial screen: Japanese film culture in the fifteen years’ war, 1931-1945",
+    "title-short": "The imperial screen",
+    "type": "book",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: high03"
+  },
+  {
+    "author": [
+      {
+        "family": "Hopson",
+        "given": "Nathan"
+      }
+    ],
+    "container-title": "The Journal of Japanese Studies",
+    "id": "GyF1ibbQ",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "1-29",
+    "publisher": "Society for Japanese Studies",
+    "title": "Nutrition as national defense: Japan’s imperial government institute for nutrition, 1920–1940",
+    "title-short": "Nutrition as national defense",
+    "type": "article-journal",
+    "volume": "45",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: hopson19"
+  },
+  {
+    "author": [
+      {
+        "family": "Ichiman",
+        "given": "Kōhei"
+      }
+    ],
+    "id": "YTXH1zcc",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "publisher": "Takanome tokushu butai",
+    "publisher-place": "Okayama",
+    "title": "Rajio-tō daihyakka 2017 \\[radio tower encylopedia 2017\\]",
+    "type": "book",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: ichima17"
+  },
+  {
+    "author": [
+      {
+        "family": "Keys",
+        "given": "Barbara"
+      }
+    ],
+    "container-title": "Diplomatic History",
+    "id": "119HlqFVn",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "165-196",
+    "publisher": "Blackwell Publishing Ltd Oxford, UK",
+    "title": "Spreading peace, democracy, and coca-cola®: Sport and american cultural expansion in the 1930s",
+    "title-short": "Spreading peace, democracy, and coca-cola®",
+    "type": "article-journal",
+    "volume": "28",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: keys04"
+  },
+  {
+    "ISSN": "13438107",
+    "URL": "https://ci.nii.ac.jp/naid/40005053416/en/",
+    "annote": "牧野, 守",
+    "author": [
+      {
+        "family": "Makino",
+        "given": "Mamoru"
+      }
+    ],
+    "container-title": "Media history",
+    "id": "alZ6afOh",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          10
+        ]
+      ]
+    },
+    "page": "16-36",
+    "publisher": "ゆまに書房",
+    "title": "内務省令「活動写真『フィルム』検閲規則」の制定における立法の思想と背景 (特集 メディア史のなかの映画)",
+    "type": "article-journal",
+    "volume": "10",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: makino00"
+  },
+  {
+    "author": [
+      {
+        "family": "Marshall",
+        "given": "P David"
+      },
+      {
+        "family": "Walker",
+        "given": "Becky"
+      },
+      {
+        "family": "Russo",
+        "given": "Nicholas"
+      }
+    ],
+    "container-title": "Convergence",
+    "id": "fq22YAzz",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "263-278",
+    "publisher": "Sage Publications Sage UK: London, England",
+    "title": "Mediating the olympics",
+    "type": "article-journal",
+    "volume": "16",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: marsha10"
+  },
+  {
+    "URL": "Japan Center for Asian Historical Records: https://www.jacar.archives.go.jp/",
+    "annote": "REF: A06031104500Reference Material Collection No.8 Nation and Radio Broadcasting National Archives of Japan Naikaku Bunko (Cabinet Library) Cabinet Intelligence Bureau Related Publications Reference Materials \\[Total of Image\\]16 \\[Call Number of holdings\\]ヨ３１０－０１４０(Holdings:National Archives of Japan)",
+    "author": [
+      {
+        "family": "Miyamoto",
+        "given": "Yoshio"
+      }
+    ],
+    "container-title": "Hōsō",
+    "id": "15mMOodtP",
+    "issued": {
+      "date-parts": [
+        [
+          1939
+        ]
+      ]
+    },
+    "title": "Kokka to hōsō \\[<span class=\"nocase\">The State and Broadcasting</span>\\]",
+    "type": "article-journal",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: miyamo39"
+  },
+  {
+    "editor": [
+      {
+        "family": "NHK"
+      }
+    ],
+    "id": "128OX7hD2",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "publisher": "NHK Shuppan",
+    "title": "20seiki hōsō-shi \\[history of broadcasting in the twentieth century\\]",
+    "type": "book",
+    "volume": "1",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: nhk01-1"
+  },
+  {
+    "id": "WICO0eWk",
+    "issued": {
+      "date-parts": [
+        [
+          1932
+        ]
+      ]
+    },
+    "publisher": "NHK",
+    "publisher-place": "Tokyo",
+    "title": "Shōwa 6-nen rajio nenkan \\[1932 radio yearbook\\]",
+    "type": "book",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: nhknenkan32"
+  },
+  {
+    "annote": "page 3 for editorial on Japan at War and role of radio in pro,oting militarism etc",
+    "id": "xhRjaAgv",
+    "issued": {
+      "date-parts": [
+        [
+          1933
+        ]
+      ]
+    },
+    "publisher": "NHK",
+    "publisher-place": "Tokyo",
+    "title": "Shōwa 7-nen rajio nenkan \\[1933 radio yearbook\\]",
+    "type": "book",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: nhknenkan33"
+  },
+  {
+    "id": "RDKr7gbL",
+    "issued": {
+      "date-parts": [
+        [
+          1935
+        ]
+      ]
+    },
+    "publisher": "NHK",
+    "publisher-place": "Tokyo",
+    "title": "Shōwa 10-nen rajio nenkan \\[1935 radio yearbook\\]",
+    "type": "book",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: nhknenkan35"
+  },
+  {
+    "id": "eTcyG1Ky",
+    "issued": {
+      "date-parts": [
+        [
+          1937
+        ]
+      ]
+    },
+    "publisher": "NHK",
+    "publisher-place": "Tokyo",
+    "title": "Shōwa 12-nen rajio nenkan \\[1937 radio yearbook\\]",
+    "type": "book",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: nhknenkan37"
+  },
+  {
+    "id": "1Cj7BxyDc",
+    "issued": {
+      "date-parts": [
+        [
+          1938
+        ]
+      ]
+    },
+    "publisher": "NHK",
+    "publisher-place": "Tokyo",
+    "title": "Shōwa 13-nen rajio nenkan \\[1938 radio yearbook\\]",
+    "type": "book",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: nhknenkan38"
+  },
+  {
+    "id": "Gaycw1Wa",
+    "issued": {
+      "date-parts": [
+        [
+          1940
+        ]
+      ]
+    },
+    "publisher": "NHK",
+    "publisher-place": "Tokyo",
+    "title": "Shōwa 15-nen rajio nenkan \\[1940 radio yearbook\\]",
+    "type": "book",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: nhknenkan40"
+  },
+  {
+    "id": "13lUMMFet",
+    "issued": {
+      "date-parts": [
+        [
+          1942
+        ]
+      ]
+    },
+    "publisher": "NHK",
+    "publisher-place": "Tokyo",
+    "title": "Shōwa 17-nen rajio nenkan \\[1942 radio yearbook\\]",
+    "type": "book",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: nhknenkan42"
+  },
+  {
+    "id": "RC6B0jzG",
+    "issued": {
+      "date-parts": [
+        [
+          1943
+        ]
+      ]
+    },
+    "publisher": "NHK",
+    "publisher-place": "Tokyo",
+    "title": "Shōwa 18-nen rajio nenkan \\[1943 radio yearbook\\]",
+    "type": "book",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: nhknenkan43"
+  },
+  {
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "Michael E."
+      }
+    ],
+    "container-title": "Japan’s competing modernities: Issues in culture and democracy, 1900-1930",
+    "editor": [
+      {
+        "family": "Minichiello",
+        "given": "Sharon"
+      }
+    ],
+    "id": "1066byZzP",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "publisher": "University of Hawaii Press",
+    "title": "Broadcasting in korea, 1924–1937: Colonial modernity and cultural hegemony",
+    "title-short": "Broadcasting in korea, 1924–1937",
+    "type": "chapter",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: robins98"
+  },
+  {
+    "author": [
+      {
+        "family": "Sakaue",
+        "given": "Yasuhiro"
+      }
+    ],
+    "id": "tTq4N0o9",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "publisher": "Yamakawa Shuppan-sha",
+    "publisher-place": "Tokyo",
+    "title": "Supōtsu to seiji",
+    "type": "book",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: sakaue14"
+  },
+  {
+    "author": [
+      {
+        "family": "Schäfer",
+        "given": "Fabian"
+      }
+    ],
+    "collection-title": "Japanese studies library",
+    "id": "PahDbwPO",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "publisher": "Brill",
+    "publisher-place": "Leiden; Boston",
+    "title": "Public opinion–propaganda–ideology: Theories on the press and its social function in interwar japan, 1918-1937",
+    "title-short": "Public opinion–propaganda–ideology",
+    "type": "book",
+    "volume": "39",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: schafe12"
+  },
+  {
+    "author": [
+      {
+        "family": "Yamaguchi",
+        "given": "Makoto"
+      }
+    ],
+    "container-title": "Journal Of Mass Communication Studies",
+    "id": "5iZBXrN3",
+    "issue": "63",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "page": "144-161",
+    "title": "The practices of ’listening’ in the history of early broadcasting and its contribution to the creation of radio",
+    "type": "article-journal",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: yamagu03a"
   }
 ]
