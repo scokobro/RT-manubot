@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://scokobro.github.io/RT-manubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://scokobro.github.io/RT-manubot/v/1aba016d9645ab3b914abae923e8aea62c76901a/" />
+  <link rel="alternate" type="text/html" href="https://scokobro.github.io/RT-manubot/v/f2430b8e7370a275c9d2000ce1df8189b2e99de6/" />
 
-  <meta name="manubot_html_url_versioned" content="https://scokobro.github.io/RT-manubot/v/1aba016d9645ab3b914abae923e8aea62c76901a/" />
+  <meta name="manubot_html_url_versioned" content="https://scokobro.github.io/RT-manubot/v/f2430b8e7370a275c9d2000ce1df8189b2e99de6/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://scokobro.github.io/RT-manubot/v/1aba016d9645ab3b914abae923e8aea62c76901a/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://scokobro.github.io/RT-manubot/v/f2430b8e7370a275c9d2000ce1df8189b2e99de6/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: Radio Towers - National
 
 <small><em>
 This manuscript
-([permalink](https://scokobro.github.io/RT-manubot/v/1aba016d9645ab3b914abae923e8aea62c76901a/))
+([permalink](https://scokobro.github.io/RT-manubot/v/f2430b8e7370a275c9d2000ce1df8189b2e99de6/))
 was automatically generated
-from [scokobro/RT-manubot@1aba016](https://github.com/scokobro/RT-manubot/tree/1aba016d9645ab3b914abae923e8aea62c76901a)
+from [scokobro/RT-manubot@f2430b8](https://github.com/scokobro/RT-manubot/tree/f2430b8e7370a275c9d2000ce1df8189b2e99de6)
 on September 14, 2020.
 </em></small>
 
@@ -134,22 +134,22 @@ This paper offers a brief description of the media landscape in which the radio 
 
 ## Komatsubara Park Radio Tower {.unnumbered}
 
-![Radio tower in Komatsubara Park, northwest Kyoto City.](./nat-imgs/komatsubara1000x1000.jpg){#fig:komatsu width=60%}
+![Radio tower in Komatsubara Park, northwest Kyoto City.](images/komatsubara1000x1000.jpg){#fig:komatsu width=60%}
 
 The radio tower shown here is positioned in the southwest corner of a smallish public park (Komatsuba Park) in a suburban area in the northwest of Kyoto City; it is fairly typical in its design and size; primarily constructed from reinforced concrete with a roughly square cross-section, flared towards the base, and standing 2.7 m tall. It has openings in all of its faces near the top, behind which the original speakers would have been installed, and is surmounted by a gently curving gable roof. On the front face is a plaque inscribed with a four-character idiom along the lines of _mens sana in corpore sano_ (a healthy mind in a healthy body), which might seem a somewhat incongruous message to put on a public radio until one considers the contemporary connection between radio and sport and exercise (see @sec:taiso). The plaque also tells us when the tower was put in place, mentioning as it does that it was erected as part of the commemorative events connected with the 'year 2600' festivities of 1940 (see @sec:kigen26).
 
-![Plan showing position of radio tower and contemporary features. Areas in grey show indicate roads and buildings.](./nat-imgs/komatsu-plan-scale.png){#fig:plan width=60%}
+![Plan showing position of radio tower and contemporary features. Areas in grey show indicate roads and buildings.](images/komatsu-plan-scale.png){#fig:plan width=60%}
 
 As can be seen in @fig:plan, Komatsubara Park, as well as its radio tower, is also home to two other contemporary features; the _fujidana_ wisteria trellis --- designed to provide covering shade of foliage for the seating below during the summer months, and a concrete flagpole stand. These three elements seem to be more or less standard accessories for these small urban parks laid out in the interwar years. Indeed some radio towers were designed to perform a dual function as housing for a radio receiver and as a support for a flagpole. The radio tower shown in @fig:murasaki has a long semicircular indentation running up the length of its rear face, it seems likely that it was used as a flagpole support. These remaining radio towers are a physical embodiment of the link between mass, public radio listening and the nation, in this case manifested in the national flag.
 
 
 ## Murasakinoyanagi Park Radio Tower {.unnumbered}
 
-![Murasakinoyanagi Park (Kyoto City) radio tower, embedded in a contemporary seating area at the east end of the park.](./nat-imgs/murasakino1000x750.jpg){#fig:murasaki width=60%}
+![Murasakinoyanagi Park (Kyoto City) radio tower, embedded in a contemporary seating area at the east end of the park.](images/murasakino1000x750.jpg){#fig:murasaki width=60%}
 
 'Radio towers' are perhaps a footnote (occasionally literally so, see @Kasza:1988, p252 n3) in the early history of the mass media in Japan but an interesting and informative one nonetheless.
 
-![Plan of Murasakinoyanagi Park indicating position of radio tower and seating area](./nat-imgs/murasaki-plan.png){#fig:murasaki-plan width=70%}
+![Plan of Murasakinoyanagi Park indicating position of radio tower and seating area](images/murasaki-plan.png){#fig:murasaki-plan width=70%}
 
 Erected in 1941, this tower (@fig:murasaki) is an example of the 'modern' style and is part of a more integrated setting; situated at the western end of a long narrow park in the north of Kyoto it is the centrepiece of a seating area made up of a raised concrete platform with integrated benches along three sides. These are all decorated with the parallel linear grooved patterns common in Japanese 'art deco' buildings of this period. The rear face of the radio tower has a semicircular groove running from its peak to its base, this is probably a mount for a flagpole.
 
@@ -158,9 +158,9 @@ Erected in 1941, this tower (@fig:murasaki) is an example of the 'modern' style 
 
 Stylistically, this tower, again put up in 1941, seems to fall into the 'other' category; while sharing a similar geometric-linear design it is somewhat unusual in that it has a definite front and back which is not related to its position in the park, that is it 'points' in one particular direction despite being located more or less in the centre of the park. On the front face one can still read the letters JOOK, the station sign of the Kyoto NHK station. A plaque below this is now illegible but there is another on its rear face which can still be read, it gives details of some of the individuals who contributed to its construction and gives the date of its dedication as '*kigen* 2601' (1941).
 
-![Hagi-jido Park radio tower](./nat-imgs/hagijido435x750.png){#fig:hagijido width=70%}
+![Hagi-jido Park radio tower](images/hagijido435x750.png){#fig:hagijido width=70%}
 
-![Hagi-jido Park plan, shows the position of the radio tower and other typical period features, _fujidana_ and flagpole stand.](./nat-imgs/hagi-jido-plan.png){#fig:hagi-plan}
+![Hagi-jido Park plan, shows the position of the radio tower and other typical period features, _fujidana_ and flagpole stand.](images/hagi-jido-plan.png){#fig:hagi-plan}
 
 
 ## References {.page_break_before}
