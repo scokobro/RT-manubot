@@ -1,26 +1,18 @@
 ---
-title: "Manuscript Title"
+title: "Radio Towers - National"
 keywords:
   - markdown
   - publishing
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
+  - github: scokobro
+    name: Scott Koga-Browes
+    initials: SPKB
     orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    twitter: scokobro
+    email: spkb@fc.ritsumei.ac.jp
     affiliations:
-      - Department of Something, University of Whatever
+      - College of IR, Ritsumeikan University
     funders:
       - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
