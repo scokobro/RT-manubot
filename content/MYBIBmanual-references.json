@@ -19,11 +19,6 @@
     "type": "article-journal"
   },
   {
-    "editor": [
-      {
-        "literal": "NHK / Kobayashi Shichirō"
-      }
-    ],
     "id": "nhknenkan37",
     "issued": {
       "date-parts": [
@@ -1411,11 +1406,6 @@
     "volume": "19"
   },
   {
-    "editor": [
-      {
-        "literal": "NHK / Matsuda Gi’ichiro"
-      }
-    ],
     "id": "nhknenkan38",
     "issued": {
       "date-parts": [
@@ -3396,11 +3386,6 @@
     "type": "book"
   },
   {
-    "editor": [
-      {
-        "literal": "NHK / Matsuda Gi’ichiro"
-      }
-    ],
     "id": "nhknenkan42",
     "issued": {
       "date-parts": [
@@ -4770,11 +4755,6 @@
     "type": "book"
   },
   {
-    "editor": [
-      {
-        "literal": "NHK / Matsuda Gi’ichiro"
-      }
-    ],
     "id": "nhknenkan40",
     "issued": {
       "date-parts": [
@@ -4830,11 +4810,6 @@
     "type": "book"
   },
   {
-    "editor": [
-      {
-        "literal": "NHK / Kobayashi Shichirō"
-      }
-    ],
     "id": "nhknenkan32",
     "issued": {
       "date-parts": [
@@ -4850,11 +4825,6 @@
   },
   {
     "annote": "page 3 for editorial on Japan at War and role of radio in pro,oting militarism etc",
-    "editor": [
-      {
-        "literal": "NHK / Kobayashi Shichirō"
-      }
-    ],
     "id": "nhknenkan33",
     "issued": {
       "date-parts": [
@@ -4869,11 +4839,6 @@
     "type": "book"
   },
   {
-    "editor": [
-      {
-        "literal": "NHK / Kobayashi Shichirō"
-      }
-    ],
     "id": "nhknenkan35",
     "issued": {
       "date-parts": [
