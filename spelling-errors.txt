@@ -8,7 +8,7 @@ BCE
 benshi
 bozen
 Browes
-callisthenics
+Callisthenics
 capitalise
 centre
 centred
@@ -51,7 +51,7 @@ Kansai
 Kantō
 Kasza
 Keio
-Kigen
+kigen
 Kigensetsu
 kikan
 Kingu
