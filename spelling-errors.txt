@@ -1,14 +1,14 @@
 ABCD
 airforce
 amongst
-asahi
+Asahi
 Asakusa
 Asakusa’s
 BCE
 benshi
 bozen
 Browes
-Callisthenics
+callisthenics
 capitalise
 centre
 centred
@@ -19,7 +19,7 @@ Cinématographe
 communitas
 corpore
 daikō
-Deco
+deco
 Denki
 Deutsches
 eg
@@ -92,7 +92,7 @@ oku
 organisers
 politicised
 practise
-Rajio
+rajio
 realisation
 realising
 recognisable

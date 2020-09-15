@@ -318,6 +318,11 @@
     "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: nhk01-1"
   },
   {
+    "editor": [
+      {
+        "literal": "NHK / Kobayashi Shichirō"
+      }
+    ],
     "id": "WICO0eWk",
     "issued": {
       "date-parts": [
@@ -334,6 +339,11 @@
   },
   {
     "annote": "page 3 for editorial on Japan at War and role of radio in pro,oting militarism etc",
+    "editor": [
+      {
+        "literal": "NHK / Kobayashi Shichirō"
+      }
+    ],
     "id": "xhRjaAgv",
     "issued": {
       "date-parts": [
@@ -349,6 +359,11 @@
     "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: nhknenkan33"
   },
   {
+    "editor": [
+      {
+        "literal": "NHK / Kobayashi Shichirō"
+      }
+    ],
     "id": "RDKr7gbL",
     "issued": {
       "date-parts": [
@@ -364,6 +379,11 @@
     "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: nhknenkan35"
   },
   {
+    "editor": [
+      {
+        "literal": "NHK / Kobayashi Shichirō"
+      }
+    ],
     "id": "eTcyG1Ky",
     "issued": {
       "date-parts": [
@@ -379,6 +399,11 @@
     "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: nhknenkan37"
   },
   {
+    "editor": [
+      {
+        "literal": "NHK / Matsuda Gi’ichiro"
+      }
+    ],
     "id": "1Cj7BxyDc",
     "issued": {
       "date-parts": [
@@ -394,6 +419,11 @@
     "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: nhknenkan38"
   },
   {
+    "editor": [
+      {
+        "literal": "NHK / Matsuda Gi’ichiro"
+      }
+    ],
     "id": "Gaycw1Wa",
     "issued": {
       "date-parts": [
@@ -409,6 +439,11 @@
     "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: nhknenkan40"
   },
   {
+    "editor": [
+      {
+        "literal": "NHK / Matsuda Gi’ichiro"
+      }
+    ],
     "id": "13lUMMFet",
     "issued": {
       "date-parts": [

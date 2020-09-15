@@ -3,7 +3,7 @@ author-meta:
 - Scott Koga-Browes
 bibliography:
 - content/manual-references.json
-date-meta: '2020-09-14'
+date-meta: '2020-09-15'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -22,9 +22,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Radio Towers - National" />
 
-  <meta name="dc.date" content="2020-09-14" />
+  <meta name="dc.date" content="2020-09-15" />
 
-  <meta name="citation_publication_date" content="2020-09-14" />
+  <meta name="citation_publication_date" content="2020-09-15" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://scokobro.github.io/RT-manubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://scokobro.github.io/RT-manubot/v/7054538dc9d8cf56f0c88c048a83a0bb7d39c17a/" />
+  <link rel="alternate" type="text/html" href="https://scokobro.github.io/RT-manubot/v/72280c005846addfcdfeb19aaadc8e86d8968d07/" />
 
-  <meta name="manubot_html_url_versioned" content="https://scokobro.github.io/RT-manubot/v/7054538dc9d8cf56f0c88c048a83a0bb7d39c17a/" />
+  <meta name="manubot_html_url_versioned" content="https://scokobro.github.io/RT-manubot/v/72280c005846addfcdfeb19aaadc8e86d8968d07/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://scokobro.github.io/RT-manubot/v/7054538dc9d8cf56f0c88c048a83a0bb7d39c17a/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://scokobro.github.io/RT-manubot/v/72280c005846addfcdfeb19aaadc8e86d8968d07/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,10 +94,10 @@ title: Radio Towers - National
 
 <small><em>
 This manuscript
-([permalink](https://scokobro.github.io/RT-manubot/v/7054538dc9d8cf56f0c88c048a83a0bb7d39c17a/))
+([permalink](https://scokobro.github.io/RT-manubot/v/72280c005846addfcdfeb19aaadc8e86d8968d07/))
 was automatically generated
-from [scokobro/RT-manubot@7054538](https://github.com/scokobro/RT-manubot/tree/7054538dc9d8cf56f0c88c048a83a0bb7d39c17a)
-on September 14, 2020.
+from [scokobro/RT-manubot@72280c0](https://github.com/scokobro/RT-manubot/tree/72280c005846addfcdfeb19aaadc8e86d8968d07)
+on September 15, 2020.
 </em></small>
 
 ## Authors
