@@ -11,3 +11,7 @@ wrap: preserve
 metadata:
   csl: build/assets/style.csl
   link-citations: true
+figureTitle: "Figure"
+tableTitle: "Table"
+figPrefix: "figure"
+tblPrefix: "table"
