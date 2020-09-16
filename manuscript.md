@@ -3,7 +3,7 @@ author-meta:
 - Scott Koga-Browes
 bibliography:
 - content/manual-references.json
-date-meta: '2020-09-15'
+date-meta: '2020-09-16'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -22,9 +22,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Radio Towers - National" />
 
-  <meta name="dc.date" content="2020-09-15" />
+  <meta name="dc.date" content="2020-09-16" />
 
-  <meta name="citation_publication_date" content="2020-09-15" />
+  <meta name="citation_publication_date" content="2020-09-16" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://scokobro.github.io/RT-manubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://scokobro.github.io/RT-manubot/v/3190193bdeb9821510037411b9d187431980a4bb/" />
+  <link rel="alternate" type="text/html" href="https://scokobro.github.io/RT-manubot/v/a88906c6702944841c8da34c70d8333cc31d52e9/" />
 
-  <meta name="manubot_html_url_versioned" content="https://scokobro.github.io/RT-manubot/v/3190193bdeb9821510037411b9d187431980a4bb/" />
+  <meta name="manubot_html_url_versioned" content="https://scokobro.github.io/RT-manubot/v/a88906c6702944841c8da34c70d8333cc31d52e9/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://scokobro.github.io/RT-manubot/v/3190193bdeb9821510037411b9d187431980a4bb/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://scokobro.github.io/RT-manubot/v/a88906c6702944841c8da34c70d8333cc31d52e9/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,10 +94,10 @@ title: Radio Towers - National
 
 <small><em>
 This manuscript
-([permalink](https://scokobro.github.io/RT-manubot/v/3190193bdeb9821510037411b9d187431980a4bb/))
+([permalink](https://scokobro.github.io/RT-manubot/v/a88906c6702944841c8da34c70d8333cc31d52e9/))
 was automatically generated
-from [scokobro/RT-manubot@3190193](https://github.com/scokobro/RT-manubot/tree/3190193bdeb9821510037411b9d187431980a4bb)
-on September 15, 2020.
+from [scokobro/RT-manubot@a88906c](https://github.com/scokobro/RT-manubot/tree/a88906c6702944841c8da34c70d8333cc31d52e9)
+on September 16, 2020.
 </em></small>
 
 ## Authors
@@ -224,7 +224,7 @@ First its few years, for a variety of reasons but in particular the weak state o
 
 ![Slow growth during early years of NHK](./nat-imgs/NHK new contracts 1925.svg){#fig:licences25}
 
-![Change in number of NHK listening contracts, and total dissemination rates (right axis), 1924--45](./nat-imgs/dissemination+licences.svg){#fig:licences}
+![Change in number of NHK listening contracts, and total dissemination rates (right axis), 1924--45](images/dissemination+licences.svg){#fig:licences}
 
 The events in China from 1931 meant that for many people --- especially those with family members fighting overseas --- the speed of access to information that radio listening provided made a license and set essentials; while it had taken NHK over six years (83 months) to attract its first million license holders, the second million was reached in under half that time (38 months) and by the start of the 1940s it was adding a million new licences in under a year and a half.
 
@@ -284,17 +284,17 @@ However there was also a feeling that Japan had as yet failed to capitalise and 
 
 By comparison with other radio nations at the end of 1938 take-up in Japan was still relatively low; in many European countries radios were already in 10-20 per cent of homes, the US had already already passed the 20 per cent mark while to the same time the rate in Japan was still under 5 per cent @nhknenkan40[6]. It was felt that more had to be done to bring radio to as great a proportion of the populace as possible.
 
-![Low penetration rates for radio (per person) in Japan in 1940 ](./nat-imgs/end1938-penetrationRatesWorldwide-nenkan1940p6-3.svg){#fig:penet}
+![Low penetration rates for radio (per person) in Japan in 1940 ](images/end1938-penetrationRatesWorldwide-nenkan1940p6-3.svg){#fig:penet}
 
-A 1939 article entitled 'Broadcasting and the State' penned by Miyamoto Yoshio, a senior bureaucrat in the Ministry of Communications, elucidates contemporary thinking on the relationship of broadcasting, at that point NHK, government and the Japanese people; since its inception in 1926 broadcasting in Japan, he explains, has undertaken as its mission the improvement of Japanese culture and the 'building of national spirit', and it has undertaken this role as a 'representative agency of the state' [@miyamo39 12]. In the article he laments that Japan was perhaps late in realising the power of broadcasting and stresses the urgency of realising the goal of 'one household, one receiver' (*ikko ichi jushinki*).[^campaign] In retrospect, the scheme to set up radio towers in public places around Japan can be seen as a way to provide a temporary answer to this concern, providing public access to radio broadcasts without burdening individual households with the costs of purchasing and maintaining a receiving set.
+A 1939 article entitled 'Broadcasting and the State' penned by Miyamoto Yoshio, a senior bureaucrat in the Ministry of Communications, elucidates contemporary thinking on the relationship of broadcasting, at that point NHK, government and the Japanese people; since its inception in 1926 broadcasting in Japan, he explains, has undertaken as its mission the improvement of Japanese culture and the 'building of national spirit', and it has undertaken this role as a 'representative agency of the state' [@miyamo39 12]. In the article he laments that Japan was perhaps late in realising the power of broadcasting and stresses the urgency of realising the goal of 'one household, one receiver' (*ik-ko ichi-jushinki*).[^campaign] In retrospect, the scheme to set up radio towers in public places around Japan can be seen as a way to provide a temporary answer to this concern, providing public access to radio broadcasts without burdening individual households with the costs of purchasing and maintaining a receiving set.
 
 [^campaign]: NHK's three-month campaign to encourage households to each buy a radio took place starting in December 1938 [@akiyam18,141]
 
-![Radio tower in Hagi-jidō Park, Kyoto. Commemorative plaque naming contributors to its construction and giving its date as _kigen_ 2601 (1941) ](nat-imgs/hagi-comp.png){ width=50% #fig:hagi }
+![Radio tower in Hagi-jidō Park, Kyoto. Commemorative plaque naming contributors to its construction and giving its date as _kigen_ 2601 (1941) ](images/hagi-comp.png){ width=50% #fig:hagi }
 
 @Fig:hagi shows one radio tower specifically linked to the commemorative events of _kigen_ 2600; the plaque on the rear face (pictured right) lists the names of the towers's 'sewanin' (organisers) and gives the date of its construction as _kigen_ 2601, that is, 1941. This tower's design is somewhat unusual in that it has a well-defined  front and back and seems to 'point' in a certain direction. The front face still bears the worn letters JOOK, the call sign of the NHK Kyoto broadcast station, and lower down another plaque which is now unfortunately too dilapidated to be read.
 
-By 1942 concerns around the use of radio for national purposes had reached a --- perhaps somewhat hysterical --- point where it was seen as a matter of national survival; the authors of the _1942 Radio Yearbook_ write that the fall of France in the summer of 1940 was due to its failure both to prepare its airforce and _to make sure its radio broadcasts were used for the good of the state_ @nhknenkan42[4]. Given Japan's concerns during this period about the 'ABCD encirclement' and its own national survival, it is understandable that it would be eager to learn from the perceived mistakes of countries which seemed to have failed to have survived.
+By 1942 concerns around the use of radio for national purposes had reached a --- perhaps somewhat hysterical --- point where it was seen as a matter of national survival; the authors of the _1942 Radio Yearbook_ wrote that the fall of France in the summer of 1940 was due to two factors, its failure to prepare its airforce and its failure _to make sure its radio broadcasts were used for the good of the state_ @nhknenkan42[4]. Given Japan's concerns during this period about the 'ABCD encirclement' and its own national survival, it is understandable that it would be eager to learn from the perceived mistakes of countries which seemed to have failed to have survived.
 
 
 ## Sport and Radio {#sec:taiso}

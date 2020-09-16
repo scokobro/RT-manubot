@@ -133,7 +133,7 @@ content/50.radio-state.md:30:mobilisation
 content/50.radio-state.md:32:TODO
 content/50.radio-state.md:34:capitalise
 content/50.radio-state.md:40:ichi
-content/50.radio-state.md:40:ikko
+content/50.radio-state.md:40:ik
 content/50.radio-state.md:40:jushinki
 content/50.radio-state.md:40:Miyamoto
 content/50.radio-state.md:40:NHK
